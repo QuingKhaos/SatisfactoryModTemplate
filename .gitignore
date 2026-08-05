@@ -1,3 +1,11 @@
+# Blender files
+*.blend1
+
+# Substance files
+.autosave/
+*_autosave_*.spp
+*.spp.painter_lock
+
 # Visual Studio 2015 user specific files
 .vs/
 
