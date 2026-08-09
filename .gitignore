@@ -1,3 +1,9 @@
+# Intermediate assets
+/Assets/**/*.exr
+/Assets/**/*.fbx
+/Assets/**/*.glb
+/Assets/**/*.png
+
 # Blender files
 *.blend1
 
@@ -5,6 +11,7 @@
 .autosave/
 *_autosave_*.spp
 *.spp.painter_lock
+*.assbin
 
 # Visual Studio 2015 user specific files
 .vs/
