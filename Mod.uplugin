@@ -30,6 +30,11 @@
 			"SemVersion": "^2026.3.434"
 		},
 		{
+			"Name": "KhaosLib",
+			"Enabled": true,
+			"SemVersion": "^1.1.0"
+		},
+		{
 			"Name": "SML",
 			"Enabled": true,
 			"SemVersion": "^3.12.0"
